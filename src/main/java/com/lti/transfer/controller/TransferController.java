@@ -75,7 +75,7 @@ public class TransferController {
 	
 	@GetMapping(value = "/hello")
 	public Object getHello() {
-		return "Hello world..";
+		return "Hello world again..";
 	}
 	
 
